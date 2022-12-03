@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <stdio.h>
 #include <conio.h>
@@ -7,6 +8,7 @@ int main()
 {
     ios::sync_with_stdio(false), cin.tie(0), cout.tie(0);
     cout << "hi ali";
+cout<<"how are you";
 
     return 0;
 }
