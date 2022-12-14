@@ -8,7 +8,8 @@ int main()
 {
     ios::sync_with_stdio(false), cin.tie(0), cout.tie(0);
     cout << "hi ali";
-cout<<"how are you";
+
+cout<<"how old are you?";
 
     return 0;
 }
